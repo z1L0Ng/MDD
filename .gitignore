@@ -14,3 +14,9 @@ models/parallel_linear/build
 models/parallel_linear/parallel_experts.egg-info
 samples
 classify_image_graph_def.pb
+
+# Ignore dataset folders
+data/
+*.zip
+*.tar.gz
+*.tar
